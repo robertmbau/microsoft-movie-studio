@@ -21,6 +21,7 @@ Box Office Mojo (https://www.boxofficemojo.com)
 IMDB (https://www.imdb.com/interfaces/)
 Rotten Tomatoes (https://www.rottentomatoes.com)
 The Movie Database (https://www.themoviedb.org/?language=en-US)
+
 For the data imdb_movies.tsv, it can be found here: movie_basics (https://datasets.imdbws.com/title.basics.tsv.gz) . Download, extract and rename to imdb_movies.
 
 Create a folder .data and copy all the data files to that folder.
@@ -28,6 +29,7 @@ Create a folder .data and copy all the data files to that folder.
 ## Methods
 
 This project uses exploratory analysis and descriptive analysis including description of trends over time. 
+
 
 ## Results
 
@@ -38,7 +40,6 @@ The number of movies produced each year has also grown together with the budgets
 !(images/studios_money.png)
 !(images/movie_length_frequency.png)
 
-## Conclusions
 
 This analysis leads to the following recommendations for Microsoft Movie Studio:
 
@@ -49,7 +50,9 @@ This analysis leads to the following recommendations for Microsoft Movie Studio:
 
 ## For More Information
 
+
 See the full analysis in the [Jupyter Notebook](./movie_studio.ipynb) or review this [presentation](./presentation.pdf).
+
 
 
 ## Repository Structure
