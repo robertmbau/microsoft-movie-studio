@@ -22,17 +22,24 @@ IMDB (https://www.imdb.com/interfaces/)
 Rotten Tomatoes (https://www.rottentomatoes.com)
 The Movie Database (https://www.themoviedb.org/?language=en-US)
 
+For the data imdb_movies.tsv, it can be found here: movie_basics (https://datasets.imdbws.com/title.basics.tsv.gz) . Download, extract and rename to imdb_movies.
+
+Create a folder .data and copy all the data files to that folder.
 
 ## Methods
 
-This project uses descriptive analysis, including description of trends over time. 
+This project uses exploratory analysis and descriptive analysis including description of trends over time. 
+
 
 ## Results
 
 The movie industry has grown from the 1900s and it continues growing even today. There are several genres that stand-out as top rated.
 The number of movies produced each year has also grown together with the budgets and grosses.
 
-## Conclusions
+!(images/movies_yrs.png)
+!(images/studios_money.png)
+!(images/movie_length_frequency.png)
+
 
 This analysis leads to the following recommendations for Microsoft Movie Studio:
 
@@ -43,7 +50,9 @@ This analysis leads to the following recommendations for Microsoft Movie Studio:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./movie_studio.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+
+See the full analysis in the [Jupyter Notebook](./movie_studio.ipynb) or review this [presentation](./presentation.pdf).
+
 
 
 ## Repository Structure
