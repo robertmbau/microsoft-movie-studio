@@ -36,9 +36,14 @@ This project uses exploratory analysis and descriptive analysis including descri
 The movie industry has grown from the 1900s and it continues growing even today. There are several genres that stand-out as top rated.
 The number of movies produced each year has also grown together with the budgets and grosses.
 
-!(images/movies_yrs.png)
-!(images/studios_money.png)
-!(images/movie_length_frequency.png)
+![movies_yrs](https://user-images.githubusercontent.com/124348550/224486673-6e4a2ac7-eed7-42ae-b729-cea47df02afc.png)
+
+![studios_money](https://user-images.githubusercontent.com/124348550/224486692-a46331a7-5eee-43b4-a4e9-10f2aa78825e.png)
+
+![rating_movie_length](https://user-images.githubusercontent.com/124348550/224486710-2614dbe1-ab6b-4045-96c0-ff8ec9b2b862.png)
+
+![budget_gross](https://user-images.githubusercontent.com/124348550/224486725-419425fd-a3d6-4a45-a4aa-94101033984a.png)
+
 
 
 This analysis leads to the following recommendations for Microsoft Movie Studio:
@@ -59,10 +64,10 @@ See the full analysis in the [Jupyter Notebook](./movie_studio.ipynb) or review 
 
 ```
 
-├── zippedData
 ├── images
-├── __init__.py
+├── zippedData
+├── .gitignore
 ├── README.md
-├── Presentation.pdf
-└── movie_studio.ipynb
+├── movie_studio.ipynb
+└── Presentation.pdf
 ```
