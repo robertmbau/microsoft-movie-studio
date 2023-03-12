@@ -69,5 +69,7 @@ See the full analysis in the [Jupyter Notebook](./movie_studio.ipynb) or review 
 ├── .gitignore
 ├── README.md
 ├── movie_studio.ipynb
-└── Presentation.pdf
+├── movie_studio_jupyter_notebook.pdf
+├── presentation.pdf
+└── slides.pptx
 ```
